@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MessageApp</string>
+    <string name="rec_number_prompt">Enter recipient\'s number</string>
+    <string name="message_prompt">Enter your message here</string>
+    <string name="send_message">send message</string>
+    <string name="clear">Clear</string>
+
+    <string name="error_message">One or more fields is empty or invalid</string>
+</resources>
